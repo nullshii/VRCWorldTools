@@ -17,11 +17,6 @@
         "vrchat-community/clientsim"
     ],
     "packages":[
-        {
-            "name":"dev.nullshii.world.controlpanel",
-            "releases":[
-                "https://github.com/nullshii/dev.nullshii.world.controlpanel/releases/download/0.0.1/dev.nullshii.world.controlpanel.zip"
-            ]
-        }
+
     ]
 }
